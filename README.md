@@ -19,3 +19,8 @@ for git training demos
 ##How To Contribute
 please fork this repository and then issue pull requests for
 review.
+
+###Copyright
+
+2014 Git.Training.All rights reserved.
+
